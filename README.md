@@ -39,13 +39,13 @@ Users log in securely using Firebase Auth. The backend API is hosted on Render, 
 | Android Login | Firebase Auth Console | Render API Hosting |
 | :---: | :---: | :---: |
 | <img src="first.jpeg" width="200"/> | <img src="second.jpeg" width="200"/> | <img src="firebase_3.png" width="300"/> </br>
-|<img src="render_2.png" width="300"/> 
+|<img src="render_2.png" width="300"/> |
 
 ### 2. OCR Data Extraction
 Instead of typing, users can scan their details. The app parses the image and structures the data (Age, BMI, etc.) to send to the API.
 
-| Extracted Data Summary |
-| :---: |
+| UI | Extracted Data Summary |
+| :---: | :---: |
 | <img src="third.jpeg" width="250"/>| <img src="fourth.jpeg" width="250"/> |
 
 ### 3. Real-Time AI Predictions
